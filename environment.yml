@@ -1,0 +1,12 @@
+dependencies:
+  - python=3
+  - pip:
+    - spacy
+    - numpy
+    - json
+    - matplotlib
+    - pandas
+    - bs4
+    - urllib
+    - time
+    - pdtdx

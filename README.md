@@ -7,3 +7,6 @@ python_test_env
 >> https://hub.mybinder.org/user/rororay-python_test_online_env-mgsuhm4j/lab/tree/get_so_books.ipynb
 
 ***
+> https://mybinder.org/v2/gh/rororay/python_test_online_env/master?filepath=get_so_books.ipynb
+
+>> 

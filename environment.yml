@@ -3,3 +3,4 @@ dependencies:
   - pip:
     - bs4
     - requests
+    - pandas
